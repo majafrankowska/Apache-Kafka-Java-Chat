@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-kafka-test-3.0.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-kafka-test-3.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
